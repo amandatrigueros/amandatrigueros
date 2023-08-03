@@ -1,8 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F74CC6&width=435&lines=Hello!!+%F0%9F%91%8B++I'm+Amanda+%F0%9F%98%81+)](https://git.io/typing-svg)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F74CC6&width=435&lines=Hello!!+%F0%9F%91%8B++I'm+Amanda+%F0%9F%98%81+" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF6ADE&width=435&lines=Hello!!+%F0%9F%91%8B++I'm+Amanda+%F0%9F%98%81+;Welcome!!)](https://git.io/typing-svg)
 
 
-# 👋 About Me:
+## 👋 About Me:
 💻 I'm a Full-Stack Web Developer Junior<br>🎨 I lean more towards Front-End<br>💡 I'm currently pursuing new challenges<br>📚 I'm looking for a work environment where I can keep on learning<br>🎓 I also have a bachelor's degree on Business Management<br>⚡️ Fun fact: I have two puppies 🐶🐶<br>📲 Let's get in touch!<br><br><br>
 
 
